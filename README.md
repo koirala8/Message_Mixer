@@ -78,5 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration from open-source community projects.
 
 ```
-
-Remember to replace the placeholder URLs and names with your actual GitHub repository information. The README provides information on how to set up the project, run it, its structure, and how others can contribute to it.
